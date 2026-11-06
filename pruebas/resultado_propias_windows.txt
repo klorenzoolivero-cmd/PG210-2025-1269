@@ -1,0 +1,21 @@
+Grupo i01_x_negativo OK
+Grupo i02_id_repetido OK
+Grupo i03_incompleta OK
+Grupo i04_tipo_invalido OK
+Grupo i05_p_fuera OK
+Grupo i06_n_cero OK
+Grupo i07_m_nueve OK
+Grupo i08_q_cero OK
+Grupo i09_nombre_16 OK
+Grupo i10_id_cero OK
+Grupo i11_vacia OK
+Grupo i12_error_ultimo_registro OK
+Grupo i13_nombre_guion OK
+Grupo i14_n_21 OK
+Grupo p01_normal OK
+Grupo p02_borde_id_max OK
+Grupo p03_borde_m3_p0 OK
+Grupo p04_q_ausente OK
+Grupo p05_reinicio OK
+Grupo p06_capacidad_20x8 OK
+Casos correctos: 20 / 20

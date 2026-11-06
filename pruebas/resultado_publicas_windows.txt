@@ -1,0 +1,7 @@
+Grupo 1 OK
+Grupo 2 OK
+Grupo 3 OK
+Grupo 4 OK
+Grupo 5 OK
+Grupo 6 OK
+Casos correctos: 6 / 6

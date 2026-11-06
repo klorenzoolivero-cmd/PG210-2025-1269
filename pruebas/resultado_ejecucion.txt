@@ -1,0 +1,27 @@
+OK     g1
+OK     g2
+OK     g3
+OK     g4
+OK     g5
+OK     g6
+OK     i01_x_negativo
+OK     i02_id_repetido
+OK     i03_incompleta
+OK     i04_tipo_invalido
+OK     i05_p_fuera
+OK     i06_n_cero
+OK     i07_m_nueve
+OK     i08_q_cero
+OK     i09_nombre_16
+OK     i10_id_cero
+OK     i11_vacia
+OK     i12_error_ultimo_registro
+OK     i13_nombre_guion
+OK     i14_n_21
+OK     p01_normal
+OK     p02_borde_id_max
+OK     p03_borde_m3_p0
+OK     p04_q_ausente
+OK     p05_reinicio
+OK     p06_capacidad_20x8
+Correctos: 26 / 26
